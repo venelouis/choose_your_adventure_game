@@ -25,7 +25,7 @@ ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
 
 ```
 <a align="" href="https://github.com/venelouis/choose_your_adventure_game/fork">
-<img alt="Folk" title="Fork Button" src="https://shields.io/badge/-DAR%20FORK-blue.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+<img alt="Folk" title="Fork Button" src="https://shields.io/badge/-clique%20aqui%20para%20DAR%20FORK-blue.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
 ## Repositório: choose_your_adventure_game
 Um jogo feito em python com 2 arquivos: um em inglês e outro em português.
